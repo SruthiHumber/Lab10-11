@@ -41,21 +41,19 @@ Once the application is running, you can access it in your browser:
 Employee List:
 View all employees at:
 http://localhost:8080/employees
-![image](https://github.com/user-attachments/assets/635f1f1c-0104-43b6-8d2a-e75ebe191e3a)
-![image](https://github.com/user-attachments/assets/dce17a66-2d30-419f-af6d-2693e04a8564)
-
+![image](https://github.com/user-attachments/assets/df62fa5c-782f-4a90-89c2-967790b44950)
+![image](https://github.com/user-attachments/assets/0f966dcf-b653-438c-980d-01af4dd2eef1)
 
 
 Add Employee:
 Add a new employee at:
 http://localhost:8080/employees/add
-![image](https://github.com/user-attachments/assets/f2b03437-895c-46f3-bf85-224f5497cea3)
+![image](https://github.com/user-attachments/assets/e7dd39bb-453c-4089-a03f-19b426ef9752)
 
 
 Edit Employee:
 Edit an existing employee's details using the Edit button on the Employee List page.
-![image](https://github.com/user-attachments/assets/91b37de3-8c60-449f-9302-a32fabd80afb)
+![image](https://github.com/user-attachments/assets/9268e76a-53f7-4b6f-9725-43313f940820)
+![image](https://github.com/user-attachments/assets/3cb2ac43-9aec-4d27-a5a7-6b44237817b2)
 
-Delete Employee:
-Delete an existing employee's details using the Delete button on the Employee List page.
 
