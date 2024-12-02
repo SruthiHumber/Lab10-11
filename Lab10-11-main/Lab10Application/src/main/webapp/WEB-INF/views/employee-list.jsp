@@ -129,7 +129,6 @@
                         <td>${employee.department}</td>
                         <td class="actions">
                             <a href="/employees/edit/${employee.id}" class="edit">Edit</a>
-                            <a href="/employees/delete/${employee.id}" class="delete">Delete</a>
                         </td>
                     </tr>
                 </c:forEach>
