@@ -21,12 +21,11 @@ Follow the steps below to set up and run the Employee Management System on your 
 
 1. Clone the Repository
 bash
-Copy code
-git clone https://github.com/samruddhi1499/Lab10-11.git
+Copy code- https://github.com/SruthiHumber/Lab10-11.git
 2. Navigate to the Project Directory
 bash
 Copy code
-cd Lab10-11
+cd Lab10-11/
 3. Build the Project
 bash
 Copy code
